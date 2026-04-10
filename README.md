@@ -9,3 +9,5 @@
 哦对了，还有石墩子环节：
 
 ![Stone Badge](https://stone.professorlee.work/api/stone/mornhussakuyo-hub/SBTI-Fake-Fork)
+
+更新：把广告全变成石墩子
