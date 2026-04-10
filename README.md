@@ -11,3 +11,5 @@
 ![Stone Badge](https://stone.professorlee.work/api/stone/mornhussakuyo-hub/SBTI-Fake-Fork)
 
 更新：把广告全变成石墩子。
+
+更新：把烦人的二维码删掉。
