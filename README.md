@@ -6,4 +6,6 @@
 
 直接下下来就能跑，也部署了一下。
 
-哦对了，还有石墩子：
+哦对了，还有石墩子环节：
+
+![Stone Badge](https://stone.professorlee.work/api/stone/mornhussakuyo-hub/SBTI-Fake-Fork)
